@@ -1,3 +1,3 @@
 <?php include('includes/top.php'); ?>
-page profile
+page profile test 
 <?php include('includes/bottom.php'); ?>
